@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**avtotronix/avtotronix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Terminal Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0f19,100:082016&stroke=00ff66&strokeWidth=2&height=200&section=header&text=%3E_AVTOTRONIX%20%5BONLINE%5D&fontSize=38&fontColor=00ff66&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
+  <!-- Monospace Typing Terminal -->
+  <a href="https://github.com/avtotronix">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00FF66&center=true&vCenter=true&width=580&lines=$+whoami+%3E+Fullstack+Engineer+%26+System+Builder;$+cat+core_stack.txt+%3E+TypeScript+%7C+React+%7C+Node.js+%7C+Python;$+systemctl+status+brain+%3E+Active+(transforming+ideas+into+code)..." alt="Terminal Typing" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/><br/>
+
+  <!-- Terminal Style Social Links -->
+  <p align="center">
+    <a href="https://github.com/avtotronix" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:pavlovvlad180411@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://t.me/" target="_blank">
+      <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=00FF66" alt="Telegram" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 💻 System Information (`neofetch`)
+
+```bash
+╭─ avtotronix@workstation ~
+╰─$ neofetch --profile
+       /\         OS: Linux x86_64 / Cloud Environment
+      /  \        User: AvtoTronix
+     /\   \       Core: TypeScript, JavaScript, Python
+    /      \      Frontend: React, Next.js, TailwindCSS
+   /   ,,   \     Backend: Node.js, Express, FastAPI, REST APIs
+  /   |  |  -\    Databases: PostgreSQL, MongoDB, Redis
+ /_-''    ''-_\   Infrastructure: Docker, Linux, Git, GitHub Actions, CI/CD
+                  Current Goal: Building scalable, fault-tolerant & clean web apps
+                  Motto: "Talk is cheap. Show me the code."
+```
+
+---
+
+### 🛠️ Tech Arsenal & Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,py,fastapi,postgres,mongodb,redis,docker,linux,git,tailwind&theme=dark" alt="Tech Stack Icons" />
+</div>
+
+---
+
+### 📈 Activity & Telemetry
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=avtotronix&show_icons=true&theme=terminal&hide_border=false" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avtotronix&layout=compact&theme=terminal&hide_border=false" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avtotronix&theme=terminal&hide_border=false" alt="Streak Stats" />
+</div>
+
+---
+
+### 🐍 Contribution Matrix
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/avtotronix/avtotronix/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
+</div>
+
+---
+
+<div align="center">
+  <code>⚡ SYSTEM STATUS: 100% OPERATIONAL // ALL SYSTEMS GO ⚡</code>
+</div>
