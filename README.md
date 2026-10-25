@@ -47,6 +47,16 @@
 
 ---
 
+### 🌸 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/avtotronix/sakura-launcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avtotronix&repo=sakura-launcher&theme=terminal&hide_border=false" alt="Sakura Launcher" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Arsenal & Stack
 
 <div align="center">
