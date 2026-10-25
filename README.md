@@ -47,12 +47,26 @@
 
 ---
 
-### 🌸 Featured Projects
+### 🌸 Featured Project: Sakura Launcher
 
 <div align="center">
   <a href="https://github.com/avtotronix/sakura-launcher">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avtotronix&repo=sakura-launcher&theme=terminal&hide_border=false" alt="Sakura Launcher" />
   </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://github.com/avtotronix/sakura-launcher/releases/download/v0.1.2/Sakura-Launcher-Installer.exe" target="_blank">
+      <img src="https://img.shields.io/badge/📥_Скачать-Установщик_(86_MB)-00FF66?style=for-the-badge&logo=windows&logoColor=black&labelColor=0d1117" alt="Скачать Установщик" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/avtotronix/sakura-launcher/releases/download/v0.1.2/Sakura-Launcher-Portable.exe" target="_blank">
+      <img src="https://img.shields.io/badge/⚡_Скачать-Portable_(85_MB)-00FF66?style=for-the-badge&logo=files&logoColor=black&labelColor=0d1117" alt="Скачать Portable" />
+    </a>
+  </p>
+
+  <sub>Быстрый старт за 1.5 секунды, автоустановка модов, шейдеров и текстурпаков в 1 клик ✨</sub>
 </div>
 
 ---
