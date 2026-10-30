@@ -5,7 +5,7 @@
 
   <!-- Monospace Cyber Typing Terminal -->
   <a href="https://github.com/avtotronix">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF75B5&center=true&vCenter=true&width=620&lines=const+developer+%3D+%22AvtoTronix%22%3B+%2F%2F+Crafting+aesthetics+%26+code+🌸;const+stack+%3D+%5B%22TypeScript%22%2C+%22Electron%22%2C+%22Rust%22%2C+%22C%23+%2F+.NET%22%5D;🌸+Sakura+Launcher+v0.1.7+%26+ChibiPet+Live!;while+(alive)+%7B+code()%3B+innovate()%3B+elevate()%3B+%7D" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF75B5&center=true&vCenter=true&width=620&lines=const+developer+%3D+%22AvtoTronix%22%3B+%2F%2F+Crafting+aesthetics+%26+code+🌸;const+stack+%3D+%5B%22TypeScript%22%2C+%22Electron%22%2C+%22Rust%22%2C+%22C%23+%2F+.NET%22%5D;🌸+Sakura+Launcher+v0.1.8+%26+ChibiPet+Live!;while+(alive)+%7B+code()%3B+innovate()%3B+elevate()%3B+%7D" alt="Terminal Typing" />
   </a>
 
   <br/><br/>
@@ -40,7 +40,7 @@
     /      \      Frameworks: Electron, React, WPF, Node.js, Next.js
    /   🌸   \     Flagships: Sakura Launcher, Chibi Desktop Companion
   /   |  |  -\    Palette: Deep Obsidian Black (#0d0f17) & Sakura Pink (#ff75b5)
- /_-''    ''-_\   Status: Shipping v0.1.7 • Building with passion ⚡
+ /_-''    ''-_\   Status: Shipping v0.1.8 • Building with passion ⚡
 ```
 
 ---
@@ -50,17 +50,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌸 <a href="https://github.com/avtotronix/sakura-launcher">Sakura Launcher v0.1.7</a></h3>
+      <h3 align="center">🌸 <a href="https://github.com/avtotronix/sakura-launcher">Sakura Launcher v0.1.8</a></h3>
       <p align="center">
         <b>Современный, эстетичный Minecraft лаунчер на Electron, TypeScript &amp; Rust (Horizon).</b><br/>
         Полная поддержка <b>Minecraft 26.3</b> (Vanilla, Fabric, Quilt, Forge, NeoForge и нативный <b>Horizon Rust Engine</b> с максимальным FPS), единый менеджер модов (<code>.hmod</code> &amp; <code>.jar</code> из Modrinth / CurseForge), система скинов, друзья онлайн и мгновенный запуск.
       </p>
       <p align="center">
-        <a href="https://github.com/avtotronix/sakura-launcher/releases/download/v0.1.7/Sakura-Launcher-Installer.exe" target="_blank">
+        <a href="https://github.com/avtotronix/sakura-launcher/releases/download/v0.1.8/Sakura-Launcher-Installer.exe" target="_blank">
           <img src="https://img.shields.io/badge/📥_Download-Installer_(82_MB)-ff75b5?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a0b1c" alt="Скачать Установщик" />
         </a>
         <br/><br/>
-        <a href="https://github.com/avtotronix/sakura-launcher/releases/download/v0.1.7/Sakura-Launcher-Portable.exe" target="_blank">
+        <a href="https://github.com/avtotronix/sakura-launcher/releases/download/v0.1.8/Sakura-Launcher-Portable.exe" target="_blank">
           <img src="https://img.shields.io/badge/⚡_Download-Portable_(82_MB)-ff75b5?style=for-the-badge&logo=files&logoColor=white&labelColor=1a0b1c" alt="Скачать Portable" />
         </a>
       </p>
