@@ -5,31 +5,27 @@
 
   <!-- Monospace Cyber Typing Terminal -->
   <a href="https://github.com/avtotronix">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF75B5&center=true&vCenter=true&width=620&lines=const+developer+%3D+%22AvtoTronix%22%3B+%2F%2F+Crafting+aesthetics+%26+code+🌸;const+stack+%3D+%5B%22TypeScript%22%2C+%22Electron%22%2C+%22Rust%22%2C+%22C%23+%2F+.NET%22%5D;🌸+Sakura+Launcher+v0.2.2+%26+ChibiPet+Live!;while+(alive)+%7B+code()%3B+innovate()%3B+elevate()%3B+%7D" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF75B5&center=true&vCenter=true&width=620&lines=const+developer+%3D+%22AvtoTronix%22%3B;Crafting+aesthetic+%26+high-performance+apps;Sakura+Launcher+v0.2.2+%E2%80%A2+ChibiPet+3D;while+(alive)+%7B+code()%3B+innovate()%3B+elevate()%3B+%7D" alt="Terminal Typing" />
   </a>
 
   <br/><br/>
 
-  <!-- Pink & Black Cyber Badges -->
+  <!-- Pink & Black Cyber Badges (Social Links) -->
   <p align="center">
     <a href="https://github.com/avtotronix" target="_blank">
       <img src="https://img.shields.io/badge/GITHUB-120716?style=for-the-badge&logo=github&logoColor=ff75b5&labelColor=0d0b14" alt="GitHub" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://t.me/yziskso" target="_blank">
       <img src="https://img.shields.io/badge/TELEGRAM-120716?style=for-the-badge&logo=telegram&logoColor=ff75b5&labelColor=0d0b14" alt="Telegram" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://discord.gg/C34PHrC52" target="_blank">
       <img src="https://img.shields.io/badge/DISCORD-120716?style=for-the-badge&logo=discord&logoColor=ff75b5&labelColor=0d0b14" alt="Discord" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.tiktok.com/@avtotronix" target="_blank">
       <img src="https://img.shields.io/badge/TIKTOK-120716?style=for-the-badge&logo=tiktok&logoColor=ff75b5&labelColor=0d0b14" alt="TikTok" />
-    </a>
-    &nbsp;
-    <a href="mailto:pavlovvlad180411@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-120716?style=for-the-badge&logo=gmail&logoColor=ff75b5&labelColor=0d0b14" alt="Email" />
     </a>
   </p>
 
@@ -76,7 +72,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🧊 <a href="https://github.com/avtotronix/chibi-desktop-companion">Chibi Desktop Companion</a></h3>
       <p align="center">
-        <b>Интерактивный 3D Minecraft компаньон для Windows на WPF & .NET 8.</b><br/>
+        <b>Интерактивный 3D Minecraft компаньон для Windows на WPF &amp; .NET 8.</b><br/>
         Динамический майнинг 11 видов руды и дерева со стадиями трещин и 3D дропом лута, рыбалка, лазание по экрану, следование за курсором и помодоро-таймер.
       </p>
       <p align="center">
@@ -105,12 +101,12 @@
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/avtotronix">
-          <img src="https://github-readme-stats.vercel.app/api?username=avtotronix&show_icons=true&bg_color=0d0f17&title_color=ff75b5&text_color=e2e8f0&icon_color=ff75b5&border_color=331c2d&hide_border=false" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=avtotronix&show_icons=true&bg_color=0d0f17&title_color=ff75b5&text_color=e2e8f0&icon_color=ff75b5&border_color=331c2d&hide_border=false" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/avtotronix">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avtotronix&layout=compact&bg_color=0d0f17&title_color=ff75b5&text_color=e2e8f0&icon_color=ff75b5&border_color=331c2d&hide_border=false" alt="Top Languages" />
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=avtotronix&layout=compact&bg_color=0d0f17&title_color=ff75b5&text_color=e2e8f0&icon_color=ff75b5&border_color=331c2d&hide_border=false" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -134,5 +130,5 @@
 ---
 
 <div align="center">
-  <code>🌸 SAKURA SYSTEM // CRAFTED WITH PASSION & PRECISION // AVTOTRONIX 🌸</code>
+  <code>🌸 SAKURA SYSTEM // CRAFTED WITH PASSION &amp; PRECISION // AVTOTRONIX 🌸</code>
 </div>
