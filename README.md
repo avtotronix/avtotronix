@@ -16,12 +16,20 @@
       <img src="https://img.shields.io/badge/GITHUB-120716?style=for-the-badge&logo=github&logoColor=ff75b5&labelColor=0d0b14" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="mailto:pavlovvlad180411@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-120716?style=for-the-badge&logo=gmail&logoColor=ff75b5&labelColor=0d0b14" alt="Email" />
+    <a href="https://t.me/yziskso" target="_blank">
+      <img src="https://img.shields.io/badge/TELEGRAM-120716?style=for-the-badge&logo=telegram&logoColor=ff75b5&labelColor=0d0b14" alt="Telegram" />
     </a>
     &nbsp;
-    <a href="https://t.me/" target="_blank">
-      <img src="https://img.shields.io/badge/TELEGRAM-120716?style=for-the-badge&logo=telegram&logoColor=ff75b5&labelColor=0d0b14" alt="Telegram" />
+    <a href="https://discord.gg/C34PHrC52" target="_blank">
+      <img src="https://img.shields.io/badge/DISCORD-120716?style=for-the-badge&logo=discord&logoColor=ff75b5&labelColor=0d0b14" alt="Discord" />
+    </a>
+    &nbsp;
+    <a href="https://www.tiktok.com/@avtotronix" target="_blank">
+      <img src="https://img.shields.io/badge/TIKTOK-120716?style=for-the-badge&logo=tiktok&logoColor=ff75b5&labelColor=0d0b14" alt="TikTok" />
+    </a>
+    &nbsp;
+    <a href="mailto:pavlovvlad180411@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-120716?style=for-the-badge&logo=gmail&logoColor=ff75b5&labelColor=0d0b14" alt="Email" />
     </a>
   </p>
 
